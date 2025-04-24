@@ -1,4 +1,4 @@
-# VivaBite 🍽️
+# 🍽️ VivaBite
 
 **Menu-as-a-Service** for restaurants and guests
 
