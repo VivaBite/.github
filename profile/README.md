@@ -36,14 +36,14 @@ The following modules are under active development:
 ## 🎯 Our Mission
 
 For restaurants:
-- Beautiful, dynamic multilingual menus
-- Nutritional breakdown, allergy & dietary filters
-- Integration with seasonal or time-based availability
+- A powerful, flexible tool to communicate with guests in any language
+- Manage and present menus that adapt to seasonality and availability
+- Save time, reduce printing, and improve operational clarity
 
 For guests:
-- Intuitive, translated view
-- Nutritional insights and dietary flags
-- Access with tokens or NFTs
+- A beautiful and easy-to-read digital menu
+- See dish ingredients, nutrition facts, allergens and dietary tags
+- Discover local cuisine in your own language, instantly
 
 ---
 
