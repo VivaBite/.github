@@ -1,8 +1,8 @@
 # VivaBite 🍽️
 
-**Menu-as-a-Service** for restaurants and guests.
+**Menu-as-a-Service** for restaurants and guests
 
-We are building a platform to create, manage, and publish digital menus — multilingual, interactive, and Web3-integrated. All powered by crypto payments and NFT-based access.
+We are building a platform to create, manage, and publish digital menus — multilingual, interactive, and Web3-integrated. All powered by crypto payments and NFT-based access
 
 👉 Visit us at [vivabite.life](https://vivabite.life)
 
