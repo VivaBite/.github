@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Community Chat (Telegram)
+    url: https://t.me/VivaBite_Community
+    about: For questions or general discussion, join our Telegram community.
+
+  - name: 🐦 Twitter / X
+    url: https://x.com/VivaBitePub
+    about: Follow us on Twitter for updates or to DM the team
+
+  - name: ✉️ Email Support
+    url: mailto:support@vivabite.life
+    about: For sensitive or account-related matters, contact us by email

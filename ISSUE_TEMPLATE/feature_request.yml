@@ -1,0 +1,39 @@
+name: 💡 Feature Request
+description: Suggest a new feature or improvement to the VivaBite platform
+body:
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Affected area
+      description: Which part of the platform is this related to?
+      options:
+        - landing
+        - dashboard
+        - i18n
+        - token
+    validations:
+      required: false
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: What issue or need would this feature address?
+      placeholder: I can't find a way to customize the menu preview for guests...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe how you would like this to work.
+      placeholder: Add an option in the admin panel to configure live preview settings.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Anything else? Screenshots, links, use cases?
