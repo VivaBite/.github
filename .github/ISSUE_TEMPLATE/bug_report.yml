@@ -9,7 +9,6 @@ body:
       placeholder: e.g. https://vivabite.life/crowdsale
     validations:
       required: false
-
   - type: textarea
     id: what_happened
     attributes:
@@ -17,7 +16,6 @@ body:
       placeholder: I clicked on "Save", but the changes didn’t persist
     validations:
       required: true
-
   - type: textarea
     id: expected
     attributes:
@@ -25,7 +23,6 @@ body:
       placeholder: I expected the menu to be updated and confirmation to show
     validations:
       required: false
-
   - type: dropdown
     id: device
     attributes:
