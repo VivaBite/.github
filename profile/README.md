@@ -63,7 +63,7 @@ If you like VivaBite and want to support its development, you can send a small d
 
 - **Polygon (MATIC / USDC):** `0x640Bd611550E171D40CD35e5db3dd32dAB568D76`
 - **Solana (SOL / USDC):** `5i87SQ21yG1kVfAL5Ccsbth9RCZyy7ufrCqCXJo2hzBF`
-- **Tron** (TRX / USDT):** `TTA8rCbfj2Q54jiYYvM4R3BcyrCdFhXFap`
+- **Tron (TRX / USDT):** `TTA8rCbfj2Q54jiYYvM4R3BcyrCdFhXFap`
 
 ---
 
