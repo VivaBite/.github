@@ -68,7 +68,8 @@ If you like VivaBite and want to support its development, you can send a small d
 ---
 
 **Contact:**
-💬 [Discord](https://discord.gg/3gx8dBXd)
-📧 [community@vivabite.life](mailto:community@vivabite.life)
-🌍 [vivabite.life](https://vivabite.life)
+**Contact:**
+- 💬 [Discord](https://discord.gg/3gx8dBXd)
+- 📧 [community@vivabite.life](mailto:community@vivabite.life)
+- 🌍 [vivabite.life](https://vivabite.life)
 
